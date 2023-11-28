@@ -8,12 +8,6 @@ Have a look at the [`js/index.js`](./js/index.js) file: There is an `EXAMPLE_DAT
 
 This approach is very static and not very handy. Lets get more data and create new cards from them dynamically!
 
-### Task 1: Fetch data from the Star Wars Api:
-
-Fetch data from the star wars api (https://swapi.dev/api/people).
-
-Use the `async` and `await` keywords to receive the response and request the data with the `.json() method`.
-Use a `console.log()` to look at the received data!
 
 ### Task 2: Moooooooooore cards!
 
